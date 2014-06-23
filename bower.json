@@ -1,0 +1,17 @@
+{
+  "name": "navmaker",
+  "version": "0.0.1",
+  "authors": [
+    "Torrance Davenport <tjdavenport2@gmail.com>"
+  ],
+  "dependencies": {
+  	"bootstrap": "latest",
+  	"respond": "latest",
+  	"html5shiv": "latest",
+    "normalize.css": "latest"
+  },
+  "description": "Building complicated navigations on the front-end",
+  "main": "navmaker.js",
+  "license": "MIT",
+  "private": true
+}
